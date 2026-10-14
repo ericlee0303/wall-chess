@@ -1,0 +1,1014 @@
+[
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 4
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 7
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 0
+      },
+      {
+        "id": "j",
+        "type": "guard",
+        "side": "b",
+        "pos": 5
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 32
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 19
+      },
+      {
+        "id": "c",
+        "type": "knight",
+        "side": "w",
+        "pos": 30
+      }
+    ],
+    "walls": [
+      20,
+      25,
+      12,
+      6,
+      1
+    ],
+    "limit": 9,
+    "solution": [
+      {
+        "id": "b",
+        "to": 7
+      },
+      {
+        "id": "a",
+        "to": 33
+      },
+      {
+        "id": "a",
+        "to": 34
+      },
+      {
+        "id": "a",
+        "to": 28
+      },
+      {
+        "id": "c",
+        "to": 24
+      },
+      {
+        "id": "a",
+        "to": 22
+      },
+      {
+        "id": "a",
+        "to": 16
+      },
+      {
+        "id": "a",
+        "to": 10
+      },
+      {
+        "id": "a",
+        "to": 4
+      }
+    ],
+    "nodes": 689,
+    "openings": 1,
+    "total": 8,
+    "name": "첫 번째 균열"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 6
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 11
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 14
+      },
+      {
+        "id": "j",
+        "type": "hunter",
+        "side": "b",
+        "pos": 9
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 28
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 21
+      },
+      {
+        "id": "c",
+        "type": "knight",
+        "side": "w",
+        "pos": 30
+      }
+    ],
+    "walls": [
+      22,
+      33,
+      12,
+      31,
+      34,
+      16,
+      23
+    ],
+    "limit": 9,
+    "solution": [
+      {
+        "id": "b",
+        "to": 9
+      },
+      {
+        "id": "b",
+        "to": 21
+      },
+      {
+        "id": "c",
+        "to": 24
+      },
+      {
+        "id": "a",
+        "to": 27
+      },
+      {
+        "id": "c",
+        "to": 18
+      },
+      {
+        "id": "c",
+        "to": 19
+      },
+      {
+        "id": "c",
+        "to": 13
+      },
+      {
+        "id": "c",
+        "to": 7
+      },
+      {
+        "id": "c",
+        "to": 6
+      }
+    ],
+    "nodes": 919,
+    "openings": 1,
+    "total": 5,
+    "name": "닫힌 통로"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 11
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 16
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 17
+      },
+      {
+        "id": "j",
+        "type": "guard",
+        "side": "b",
+        "pos": 14
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 25
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 26
+      },
+      {
+        "id": "c",
+        "type": "knight",
+        "side": "w",
+        "pos": 35
+      }
+    ],
+    "walls": [
+      23,
+      18,
+      13,
+      8
+    ],
+    "limit": 9,
+    "solution": [
+      {
+        "id": "b",
+        "to": 24
+      },
+      {
+        "id": "a",
+        "to": 26
+      },
+      {
+        "id": "c",
+        "to": 29
+      },
+      {
+        "id": "a",
+        "to": 20
+      },
+      {
+        "id": "a",
+        "to": 14
+      },
+      {
+        "id": "a",
+        "to": 15
+      },
+      {
+        "id": "a",
+        "to": 16
+      },
+      {
+        "id": "a",
+        "to": 10
+      },
+      {
+        "id": "a",
+        "to": 11
+      }
+    ],
+    "nodes": 1237,
+    "openings": 1,
+    "total": 8,
+    "name": "미끼의 값"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 4
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 7
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 16
+      },
+      {
+        "id": "j",
+        "type": "guard",
+        "side": "b",
+        "pos": 17
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 26
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 19
+      },
+      {
+        "id": "c",
+        "type": "knight",
+        "side": "w",
+        "pos": 20
+      }
+    ],
+    "walls": [
+      18,
+      13,
+      27,
+      22,
+      25,
+      2,
+      9
+    ],
+    "limit": 9,
+    "solution": [
+      {
+        "id": "b",
+        "to": 7
+      },
+      {
+        "id": "b",
+        "to": 19
+      },
+      {
+        "id": "c",
+        "to": 21
+      },
+      {
+        "id": "a",
+        "to": 20
+      },
+      {
+        "id": "a",
+        "to": 19
+      },
+      {
+        "id": "c",
+        "to": 15
+      },
+      {
+        "id": "c",
+        "to": 16
+      },
+      {
+        "id": "c",
+        "to": 10
+      },
+      {
+        "id": "c",
+        "to": 4
+      }
+    ],
+    "nodes": 1759,
+    "openings": 1,
+    "total": 6,
+    "name": "양자택일"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 17
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 16
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 13
+      },
+      {
+        "id": "j",
+        "type": "hunter",
+        "side": "b",
+        "pos": 14
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 19
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 24
+      },
+      {
+        "id": "c",
+        "type": "pusher",
+        "side": "w",
+        "pos": 31
+      }
+    ],
+    "walls": [
+      12,
+      22,
+      5,
+      28,
+      27,
+      9
+    ],
+    "limit": 10,
+    "solution": [
+      {
+        "id": "a",
+        "to": 25
+      },
+      {
+        "id": "a",
+        "to": 26
+      },
+      {
+        "id": "a",
+        "to": 32
+      },
+      {
+        "id": "a",
+        "to": 33
+      },
+      {
+        "id": "a",
+        "to": 34
+      },
+      {
+        "id": "b",
+        "to": 26
+      },
+      {
+        "id": "a",
+        "to": 35
+      },
+      {
+        "id": "a",
+        "to": 29
+      },
+      {
+        "id": "a",
+        "to": 23
+      },
+      {
+        "id": "a",
+        "to": 17
+      }
+    ],
+    "nodes": 1061,
+    "openings": 1,
+    "total": 8,
+    "name": "조용한 압박"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 2
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 7
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 16
+      },
+      {
+        "id": "j",
+        "type": "hunter",
+        "side": "b",
+        "pos": 11
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 24
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 23
+      },
+      {
+        "id": "c",
+        "type": "pusher",
+        "side": "w",
+        "pos": 34
+      }
+    ],
+    "walls": [
+      14,
+      25,
+      3,
+      26,
+      17,
+      28,
+      31
+    ],
+    "limit": 10,
+    "solution": [
+      {
+        "id": "c",
+        "to": 33
+      },
+      {
+        "id": "b",
+        "to": 11
+      },
+      {
+        "id": "c",
+        "to": 27
+      },
+      {
+        "id": "c",
+        "to": 21
+      },
+      {
+        "id": "a",
+        "to": 18
+      },
+      {
+        "id": "a",
+        "to": 12
+      },
+      {
+        "id": "a",
+        "to": 6
+      },
+      {
+        "id": "a",
+        "to": 0
+      },
+      {
+        "id": "a",
+        "to": 1
+      },
+      {
+        "id": "a",
+        "to": 2
+      }
+    ],
+    "nodes": 3268,
+    "openings": 2,
+    "total": 7,
+    "name": "잃어야 얻는 것"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 11
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 14
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 7
+      },
+      {
+        "id": "j",
+        "type": "guard",
+        "side": "b",
+        "pos": 6
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 35
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 20
+      },
+      {
+        "id": "c",
+        "type": "knight",
+        "side": "w",
+        "pos": 25
+      }
+    ],
+    "walls": [
+      1,
+      12,
+      23,
+      10,
+      17,
+      0
+    ],
+    "limit": 10,
+    "solution": [
+      {
+        "id": "b",
+        "to": 22
+      },
+      {
+        "id": "c",
+        "to": 26
+      },
+      {
+        "id": "c",
+        "to": 20
+      },
+      {
+        "id": "c",
+        "to": 14
+      },
+      {
+        "id": "c",
+        "to": 15
+      },
+      {
+        "id": "c",
+        "to": 9
+      },
+      {
+        "id": "c",
+        "to": 3
+      },
+      {
+        "id": "c",
+        "to": 4
+      },
+      {
+        "id": "c",
+        "to": 5
+      },
+      {
+        "id": "c",
+        "to": 11
+      }
+    ],
+    "nodes": 3285,
+    "openings": 2,
+    "total": 10,
+    "name": "왕의 그림자"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 0
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 3
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 11
+      },
+      {
+        "id": "j",
+        "type": "guard",
+        "side": "b",
+        "pos": 12
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 27
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 18
+      },
+      {
+        "id": "c",
+        "type": "pusher",
+        "side": "w",
+        "pos": 23
+      }
+    ],
+    "walls": [
+      5,
+      35,
+      22,
+      33,
+      8,
+      30
+    ],
+    "limit": 11,
+    "solution": [
+      {
+        "id": "b",
+        "to": 20
+      },
+      {
+        "id": "a",
+        "to": 21
+      },
+      {
+        "id": "b",
+        "to": 32
+      },
+      {
+        "id": "c",
+        "to": 17
+      },
+      {
+        "id": "c",
+        "to": 16
+      },
+      {
+        "id": "a",
+        "to": 20
+      },
+      {
+        "id": "a",
+        "to": 14
+      },
+      {
+        "id": "a",
+        "to": 13
+      },
+      {
+        "id": "a",
+        "to": 7
+      },
+      {
+        "id": "a",
+        "to": 1
+      },
+      {
+        "id": "a",
+        "to": 0
+      }
+    ],
+    "nodes": 788,
+    "openings": 1,
+    "total": 7,
+    "name": "돌아가는 길"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 5
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 12
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 0
+      },
+      {
+        "id": "j",
+        "type": "guard",
+        "side": "b",
+        "pos": 15
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 32
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 19
+      },
+      {
+        "id": "c",
+        "type": "knight",
+        "side": "w",
+        "pos": 24
+      }
+    ],
+    "walls": [
+      10,
+      29,
+      28,
+      3,
+      18,
+      1,
+      7
+    ],
+    "limit": 11,
+    "solution": [
+      {
+        "id": "b",
+        "to": 31
+      },
+      {
+        "id": "a",
+        "to": 26
+      },
+      {
+        "id": "c",
+        "to": 25
+      },
+      {
+        "id": "c",
+        "to": 19
+      },
+      {
+        "id": "c",
+        "to": 13
+      },
+      {
+        "id": "c",
+        "to": 14
+      },
+      {
+        "id": "c",
+        "to": 15
+      },
+      {
+        "id": "c",
+        "to": 16
+      },
+      {
+        "id": "c",
+        "to": 17
+      },
+      {
+        "id": "c",
+        "to": 11
+      },
+      {
+        "id": "c",
+        "to": 5
+      }
+    ],
+    "nodes": 930,
+    "openings": 1,
+    "total": 7,
+    "name": "마지막 한 칸"
+  },
+  {
+    "pieces": [
+      {
+        "id": "k",
+        "type": "king",
+        "side": "b",
+        "pos": 5
+      },
+      {
+        "id": "g",
+        "type": "guard",
+        "side": "b",
+        "pos": 12
+      },
+      {
+        "id": "h",
+        "type": "hunter",
+        "side": "b",
+        "pos": 10
+      },
+      {
+        "id": "j",
+        "type": "hunter",
+        "side": "b",
+        "pos": 9
+      },
+      {
+        "id": "a",
+        "type": "knight",
+        "side": "w",
+        "pos": 20
+      },
+      {
+        "id": "b",
+        "type": "jumper",
+        "side": "w",
+        "pos": 23
+      },
+      {
+        "id": "c",
+        "type": "knight",
+        "side": "w",
+        "pos": 30
+      }
+    ],
+    "walls": [
+      26,
+      25,
+      8,
+      7,
+      22,
+      33,
+      31
+    ],
+    "limit": 12,
+    "solution": [
+      {
+        "id": "a",
+        "to": 21
+      },
+      {
+        "id": "a",
+        "to": 27
+      },
+      {
+        "id": "a",
+        "to": 28
+      },
+      {
+        "id": "a",
+        "to": 29
+      },
+      {
+        "id": "b",
+        "to": 35
+      },
+      {
+        "id": "a",
+        "to": 23
+      },
+      {
+        "id": "a",
+        "to": 29
+      },
+      {
+        "id": "b",
+        "to": 23
+      },
+      {
+        "id": "a",
+        "to": 23
+      },
+      {
+        "id": "a",
+        "to": 17
+      },
+      {
+        "id": "a",
+        "to": 11
+      },
+      {
+        "id": "a",
+        "to": 5
+      }
+    ],
+    "nodes": 1424,
+    "openings": 1,
+    "total": 7,
+    "name": "완벽한 열두 수"
+  }
+]
