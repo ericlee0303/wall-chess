@@ -32,3 +32,7 @@ Click a white piece to select it; click a destination to move. Click any non-des
 ## Limits
 
 Two-ply heuristic minimax is reactive, not an unbeatable chess engine. The shortest-path guarantees are against this deterministic policy, not every theoretically possible black move. Difficulty is based on narrow solutions and strict deadlines; human difficulty remains subjective.
+
+## Vercel
+
+Import this repository with Root Directory left at the repository root. `vercel.json` selects Other, skips the build step, and serves `dist/`. A push to the connected production branch triggers a new deployment. If importing manually, set Output Directory to `dist` and leave Build Command empty.
